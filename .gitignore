@@ -1,3 +1,4 @@
 bin
 ToDoList
 bin/ToDoList
+.env
